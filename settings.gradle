@@ -1,1 +1,3 @@
 rootProject.name = 'gradle-test-spike'
+
+include 'api', 'test'
